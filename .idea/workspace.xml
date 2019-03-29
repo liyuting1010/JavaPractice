@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/SpringBootExecrise" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/SpringiA4_SourceCode/Chapter_01/knight" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/ToDoAPI" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/consumer-authorisation" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/dsdb-synchroniser" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/listing-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/locke-event-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/consumer-authorisation" value="PREVIEW" />
+        <entry key="$USER_HOME$/git-basic-zh-2019-1-7-10-17-4-14" value="PREVIEW" />
+        <entry key="$USER_HOME$/gs-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gs-spring-boot" value="PREVIEW" />
+        <entry key="$USER_HOME$/gs-spring-boot/initial" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19761129" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
